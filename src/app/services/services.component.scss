@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  .services-container {
+    padding: 50px 0;
+    
+    cursor: pointer;
+  }
+  .service-item {
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 51px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,21,117,1) 35%, rgba(4,37,43,1) 100%);
+    color: #fff;
+    // background-color: #fff;
+  }
+ 
+  .service-icon {
+    font-size: 3em;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  .service-item h3 {
+    font-size: 1.5em;
+  }
+  .service-item p {
+    font-size: 1.1em;
+  }
